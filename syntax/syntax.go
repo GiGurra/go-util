@@ -1,4 +1,4 @@
-package util
+package syntax
 
 func OrPanic(first interface{}, err error) interface{} {
 	if err != nil {
